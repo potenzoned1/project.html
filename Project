@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Technology Utilized by the Secret Service - Webography</title>
+</head>
+<body>
+    <header>
+        <h1>Technology Utilized by the Secret Service</h1>
+        <p><strong>Name:</strong> Dante Potenzone</p>
+        <p><strong>Course:</strong> CSIT100_27FA24</p>
+        <p><strong>Date:</strong> November 6th, 2024</p>
+    </header>
+    
+    <h2>Research Subtopics</h2>
+    <ul>
+        <li><a href="subtopic1.html">Cybersecurity Measures</a></li>
+        <li><a href="subtopic2.html">Surveillance Technology</a></li>
+        <li><a href="subtopic3.html">Communication Systems</a></li>
+    </ul>
+    
+    <h3>Links to Supporting Documents</h3>
+    <ul>
+        <li><a href="paper.doc">Research Paper</a></li>
+        <li><a href="presentation.ppt">Presentation Slides</a></li>
+    </ul>
+</body>
+</html>
